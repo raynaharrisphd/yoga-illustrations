@@ -1,5 +1,7 @@
 # Yoga Illustrations
  
+Images from Shutterstock.com
+ 
 ![](illustration_1.png)   
 illustration_1.png   
     
@@ -14,4 +16,7 @@ illustration_4.png
     
 ![](illustration_5.png)   
 illustration_5.png   
+    
+![](yoga-poster.png)   
+yoga-poster.png   
     
