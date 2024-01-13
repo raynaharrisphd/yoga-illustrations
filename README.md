@@ -17,6 +17,9 @@ illustration_4.png
 ![](illustration_5.png)   
 illustration_5.png   
     
-![](yoga-poster.png)   
-yoga-poster.png   
+![](yoga-poses_joy-1.png)   
+yoga-poses_joy-1.png   
+    
+![](yoga-poses_poster.png)   
+yoga-poses_poster.png   
     
