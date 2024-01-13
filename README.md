@@ -1,3 +1,3 @@
 # Yoga Illustration
-![](illustration_standing.png)
-![](illustration_supine.png)
+![](illustration_1.png)
+![](illustration_2.png)

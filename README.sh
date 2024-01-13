@@ -1,7 +1,7 @@
 # read me with links to all files
 
 echo "# Yoga Illustration" > README.md
-echo " "  >> yoga-illustrations
+echo " "  >> README.md
 
 for image in *png
 do
