@@ -7,7 +7,7 @@ for image in *png
 do
   ls $image
   echo "![]($image)   " >> README.md
-  echo "Image name: $image   " >> README.md
+  echo "_Image name: $image_   " >> README.md
   echo "    "  >> README.md
   echo "    "  >> README.md
 done
